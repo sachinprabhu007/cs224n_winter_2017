@@ -1,0 +1,262 @@
+Loaded train data!
+Loaded val data!
+Loaded reverse dictionary!
+Number of training examples: 3840000
+Number of validation examples: 16
+Average loss at step  0 :  260.248779297
+Nearest to were: stuffed, bachelor, krause, short, megatokyo, kronecker, tuff, crushes,
+Nearest to as: horizontal, speculators, africana, unlicensed, hornets, affectionate, seeming, substitution,
+Nearest to to: badger, islamism, cinematographers, unwillingly, divorcing, heartbeat, purifying, interchanges,
+Nearest to used: orie, sykes, cones, alarms, rivers, tribes, undisclosed, combine,
+Nearest to however: physique, burg, covenanters, appended, assured, tilden, qe, drums,
+Nearest to in: dances, irrespective, disenfranchisement, shocks, eileen, federer, filesystem, vah,
+Nearest to an: locksmithing, cocteau, ulfilas, octahedral, surpass, yyyy, leading, blends,
+Nearest to his: mythical, pulitzer, oint, discrepancy, hillel, supplemented, mailing, midrashim,
+Nearest to system: ideologies, fleshy, impartiality, louisiana, lasts, grenville, ventilated, fulbright,
+Nearest to than: geographers, dolmen, applicable, dwell, treats, temptations, player, bogota,
+Nearest to their: glow, morricone, tying, decline, batter, armstrong, putnam, concealment,
+Nearest to american: severan, omen, romanians, acceptable, letsie, plank, bangladesh, meat,
+Nearest to at: addresses, bacilli, gamba, rockford, quotients, gallantry, manichaeism, iole,
+Nearest to first: disenchantment, mesocricetus, sef, glycogen, fats, evolutionists, gemma, warned,
+Nearest to world: inventors, secondarily, revolve, dine, immortality, orchestrated, instituted, collision,
+Nearest to with: chromosomal, counterrevolutionary, berlitz, alans, homecoming, jolly, nickelodeon, montenegrins,
+Average loss at step  1000 :  144.989345322
+Average loss at step  2000 :  83.8392883415
+Average loss at step  3000 :  60.0913944659
+Average loss at step  4000 :  45.6981560731
+Average loss at step  5000 :  35.4315251136
+Nearest to were: gland, of, explanation, short, variants, in, critics, appointed,
+Nearest to as: infrastructure, austin, horizontal, gland, dialects, substitution, aelian, studios,
+Nearest to to: gland, in, february, austin, ragnar, arrow, and, once,
+Nearest to used: UNK, rivers, pressing, austin, tribes, anatomy, alarms, baseball,
+Nearest to however: austin, arrangement, reginae, ut, levitt, rhode, alkane, translated,
+Nearest to in: and, of, gland, launch, victoriae, aq, vs, on,
+Nearest to an: leading, moses, vessel, gland, the, notes, cl, al,
+Nearest to his: pulitzer, this, mythical, maguey, a, historic, reginae, title,
+Nearest to system: carbon, louisiana, abraham, truth, journalism, gland, factbook, fleshy,
+Nearest to than: victoriae, player, zero, reginae, gland, receivers, treats, funding,
+Nearest to their: armstrong, script, UNK, vs, glow, decline, christianity, victoriae,
+Nearest to american: reginae, acceptable, bangladesh, victoriae, aeneas, paraphyletic, agave, vs,
+Nearest to at: aa, abu, seeks, utilitarian, alchemy, entity, alif, visitors,
+Nearest to first: cl, relatives, team, gland, representation, solutions, austin, chairman,
+Nearest to world: gland, proceeding, center, porto, vs, faith, instituted, atlantic,
+Nearest to with: taliban, of, murchison, in, motile, local, stress, david,
+Average loss at step  6000 :  31.216957098
+Average loss at step  7000 :  24.8736663361
+Average loss at step  8000 :  21.9688304639
+Average loss at step  9000 :  19.2429087844
+Average loss at step  10000 :  16.5455230339
+Nearest to were: gland, bachelor, warner, explanation, in, stripped, appointed, stuffed,
+Nearest to as: is, and, austin, roper, or, gland, fairbanks, infrastructure,
+Nearest to to: in, and, gland, inclusions, arrow, including, into, austin,
+Nearest to used: rivers, kasparov, pressing, austin, descendants, UNK, tribes, hebrew,
+Nearest to however: tubing, austin, translated, alkane, reginae, percussion, arrangement, omnibus,
+Nearest to in: of, and, gland, victoriae, nine, from, on, launch,
+Nearest to an: the, moses, vessel, leading, UNK, levitt, notes, entice,
+Nearest to his: this, pulitzer, mailing, the, a, qutb, upcoming, mythical,
+Nearest to system: ideologies, louisiana, carbon, algebraic, hogeschool, automotive, ambients, lasts,
+Nearest to than: applicable, reginae, gland, victoriae, amo, argon, receivers, player,
+Nearest to their: armstrong, glow, script, northward, vs, motile, decline, the,
+Nearest to american: bangladesh, acceptable, aeneas, paraphyletic, credited, but, linebackers, break,
+Nearest to at: and, in, of, mathbf, addresses, UNK, aa, alice,
+Nearest to first: in, chairman, relatives, representation, solutions, team, second, cl,
+Nearest to world: faith, revolve, inventors, center, porto, instituted, proceeding, gland,
+Nearest to with: in, of, for, and, taliban, chromosomal, murchison, nine,
+Average loss at step  11000 :  14.5357071724
+Average loss at step  12000 :  13.1694622469
+Average loss at step  13000 :  12.3031340573
+Average loss at step  14000 :  10.9892804265
+Average loss at step  15000 :  10.6596312578
+Nearest to were: are, was, warner, gland, bachelor, frits, appointed, explanation,
+Nearest to as: and, is, by, hbox, or, agouti, in, for,
+Nearest to to: in, apatosaurus, for, hbox, into, gland, inclusions, arrow,
+Nearest to used: kasparov, rivers, pressing, UNK, descendants, available, vocal, hebrew,
+Nearest to however: tubing, austin, translated, finland, alkane, refuge, hbox, assured,
+Nearest to in: of, and, nine, by, on, eight, gland, for,
+Nearest to an: the, vessel, moses, dasyprocta, levitt, leading, notable, agouti,
+Nearest to his: the, this, their, mailing, s, a, apatosaurus, upcoming,
+Nearest to system: ideologies, louisiana, carbon, automotive, hogeschool, algebraic, ambients, lasts,
+Nearest to than: applicable, is, or, player, treats, amo, reginae, geographers,
+Nearest to their: the, armstrong, his, glow, script, dasyprocta, biog, northward,
+Nearest to american: and, bangladesh, credited, acceptable, aeneas, but, prima, paraphyletic,
+Nearest to at: in, and, of, addresses, annales, second, aa, counterattack,
+Nearest to first: in, chairman, relatives, solutions, second, team, warned, representation,
+Nearest to world: faith, revolve, instituted, inventors, gland, masses, proceeding, center,
+Nearest to with: of, in, and, for, into, taliban, by, nine,
+Average loss at step  16000 :  9.46910890722
+Average loss at step  17000 :  8.51485579753
+Average loss at step  18000 :  8.60876614761
+Average loss at step  19000 :  7.99915879989
+Average loss at step  20000 :  7.56392158961
+Nearest to were: are, was, by, is, warner, gland, in, be,
+Nearest to as: is, and, or, for, by, hbox, in, was,
+Nearest to to: for, apatosaurus, in, nine, into, and, arrow, dasyprocta,
+Nearest to used: kasparov, rivers, pressing, available, descendants, vocal, UNK, hebrew,
+Nearest to however: physique, tubing, finland, arching, translated, by, refuge, reginae,
+Nearest to in: and, of, on, from, with, by, gland, nine,
+Nearest to an: the, dasyprocta, vessel, moses, andaman, agouti, notable, gland,
+Nearest to his: the, their, this, mailing, s, dasyprocta, apatosaurus, pulitzer,
+Nearest to system: pentagonal, ideologies, louisiana, carbon, automotive, hogeschool, algebraic, resolved,
+Nearest to than: or, applicable, geographers, player, is, treats, dwell, reginae,
+Nearest to their: the, his, armstrong, dasyprocta, script, glow, apatosaurus, biog,
+Nearest to american: bangladesh, and, credited, apartment, severan, but, decimal, acceptable,
+Nearest to at: in, and, of, annales, second, addresses, for, with,
+Nearest to first: second, chairman, in, solutions, most, team, relatives, representation,
+Nearest to world: faith, center, inventors, instituted, revolve, conti, masses, gland,
+Nearest to with: in, and, for, of, by, into, as, to,
+Average loss at step  21000 :  7.15986318517
+Average loss at step  22000 :  7.19232786083
+Average loss at step  23000 :  6.87434010124
+Average loss at step  24000 :  6.94427433825
+Average loss at step  25000 :  6.74475988531
+Nearest to were: are, was, by, is, caapi, had, in, be,
+Nearest to as: is, by, and, for, hbox, or, in, agouti,
+Nearest to to: nine, apatosaurus, inclusions, for, arrow, into, dasyprocta, hbox,
+Nearest to used: kasparov, available, rivers, pressing, descendants, vocal, hebrew, aphrodite,
+Nearest to however: physique, tubing, finland, by, and, translated, refuge, arching,
+Nearest to in: and, nine, on, from, of, at, gland, by,
+Nearest to an: the, dasyprocta, vessel, moses, notable, hanson, mahagonny, agouti,
+Nearest to his: the, their, this, s, mailing, her, pulitzer, dasyprocta,
+Nearest to system: pentagonal, ideologies, louisiana, carbon, automotive, hogeschool, resolved, algebraic,
+Nearest to than: or, applicable, acc, geographers, sponsors, player, zero, dwell,
+Nearest to their: his, the, armstrong, its, dasyprocta, apatosaurus, them, script,
+Nearest to american: bangladesh, credited, decimal, apartment, and, dasyprocta, aeneas, jsp,
+Nearest to at: in, and, of, annales, for, second, with, addresses,
+Nearest to first: second, team, chairman, agouti, same, solutions, in, most,
+Nearest to world: faith, center, inventors, conti, revolve, porto, instituted, ornamental,
+Nearest to with: in, and, for, by, abet, of, as, from,
+Average loss at step  26000 :  6.49584327745
+Average loss at step  27000 :  6.41340624309
+Average loss at step  28000 :  6.01229722953
+Average loss at step  29000 :  6.13527518725
+Loaded train data!
+Loaded val data!
+Loaded reverse dictionary!
+Number of training examples: 3840000
+Number of validation examples: 16
+Average loss at step  0 :  286.733947754
+Nearest to were: coasts, flo, breaker, modifying, poetically, globalization, durand, memorandum,
+Nearest to as: edema, wills, cowan, silenced, come, brubaker, maturing, kama,
+Nearest to to: kramer, stahl, modesty, endeavored, sandstone, circumflex, corse, retriever,
+Nearest to used: jardines, kaplan, symbiosis, alvarado, perpetrator, banking, burnside, horseback,
+Nearest to however: eustace, bosniaks, hammer, pv, complexes, synods, cofactor, toasting,
+Nearest to in: marshal, mathematically, chthonic, invest, overlooks, liaisons, bihar, jacobus,
+Nearest to an: midair, grt, persia, cushion, reconsideration, classrooms, woodcuts, witt,
+Nearest to his: cyclical, fujiko, cfl, banks, cross, taxable, mink, fas,
+Nearest to system: bb, shenouda, vanity, beginners, fictionalised, jaffe, catalyzed, bowmen,
+Nearest to than: boasted, conjectural, refining, centuries, crucible, proverb, incest, timeline,
+Nearest to their: jogaila, patents, fait, fridtjof, senseless, digits, vai, wonderful,
+Nearest to american: unbaptized, explained, fireballs, crochet, culprit, retroactively, gita, grove,
+Nearest to at: ascertaining, homeless, outgrowth, wrinkled, cranes, ghettos, leaving, tikal,
+Nearest to first: meteor, lateran, pertinent, immense, cedric, ziegfeld, thumb, stoke,
+Nearest to world: pearl, dawkins, dragonfly, thibetanus, flavour, uzbeks, gestation, hampered,
+Nearest to with: centronics, ets, chemotherapeutic, synthetic, bronzes, landlord, mysticism, institutes,
+Average loss at step  1000 :  143.096571754
+Average loss at step  2000 :  84.6357370777
+Average loss at step  3000 :  59.6082459393
+Average loss at step  4000 :  46.2325956974
+Average loss at step  5000 :  35.8204051099
+Nearest to were: coasts, observer, junctions, similar, reginae, potato, others, sanskrit,
+Nearest to as: initiation, in, and, come, lowland, kabul, direct, humanitarian,
+Nearest to to: and, in, austin, of, reginae, seriously, louise, slowed,
+Nearest to used: cl, disabilities, park, victoriae, moderate, kaplan, bases, banking,
+Nearest to however: hammer, pine, level, victoriae, ministers, cl, studios, volunteers,
+Nearest to in: and, of, austin, agave, by, to, UNK, reginae,
+Nearest to an: persia, agave, grt, the, abacus, austin, cl, disciplines,
+Nearest to his: banks, states, vs, cross, pigs, gland, austin, landing,
+Nearest to system: additional, describing, family, map, doctor, kickoff, sport, agave,
+Nearest to than: centuries, ice, boasted, cl, groups, victoriae, locate, deployed,
+Nearest to their: patents, digits, energy, the, nutritional, ranking, theatre, austin,
+Nearest to american: explained, alchemy, background, newsgroup, cl, austin, cutting, grove,
+Nearest to at: reginae, homeless, leaving, unified, large, broadcasters, cl, place,
+Nearest to first: abu, immense, degree, reginae, meteor, records, hinder, retrieved,
+Nearest to world: victoriae, austin, reginae, pearl, during, try, arabs, albania,
+Nearest to with: boroughs, phylum, institutes, archaeological, reginae, of, independently, agave,
+Average loss at step  6000 :  31.0763966022
+Average loss at step  7000 :  24.5391776052
+Average loss at step  8000 :  22.106950047
+Average loss at step  9000 :  19.2277876496
+Average loss at step  10000 :  16.4230697446
+Nearest to were: observer, coasts, atheism, propensity, similar, humour, extinct, nowhere,
+Nearest to as: in, initiation, and, for, corporation, good, swedish, of,
+Nearest to to: in, and, corporation, with, sandstone, angered, homomorphism, of,
+Nearest to used: cl, disabilities, banking, park, antimatter, burnside, amo, kaplan,
+Nearest to however: hammer, pine, analogue, bandwidth, volunteers, ministers, victoriae, studios,
+Nearest to in: and, of, on, for, by, to, agave, UNK,
+Nearest to an: syllable, the, persia, willem, agave, seemed, psychoactive, fears,
+Nearest to his: the, its, archie, cyclical, jubal, landing, affected, vs,
+Nearest to system: doctor, vanity, dione, additional, bb, sport, incorporated, family,
+Nearest to than: centuries, boasted, au, ice, locate, cl, axis, regional,
+Nearest to their: patents, the, dreamed, beekeeping, s, energy, her, austin,
+Nearest to american: explained, newsgroup, one, background, grove, cutting, alchemy, earl,
+Nearest to at: reginae, first, of, and, eight, unified, reynolds, te,
+Nearest to first: immense, abu, and, records, worship, at, fins, reginae,
+Nearest to world: pearl, austin, victoriae, during, arabs, spalding, try, albania,
+Nearest to with: and, in, of, boroughs, archaeological, agave, reginae, injections,
+Average loss at step  11000 :  14.1418331838
+Average loss at step  12000 :  13.6738256774
+Average loss at step  13000 :  12.3712931585
+Average loss at step  14000 :  10.9596396315
+Average loss at step  15000 :  10.5989295878
+Nearest to were: was, is, observer, extinct, coasts, humour, propensity, unwin,
+Nearest to as: in, and, for, initiation, theta, of, by, sumer,
+Nearest to to: in, and, with, for, nine, of, dasyprocta, aglaulus,
+Nearest to used: agouti, dasyprocta, cl, disabilities, banking, kaplan, park, burnside,
+Nearest to however: hammer, pine, eustace, analogue, bandwidth, and, reign, volunteers,
+Nearest to in: and, of, on, for, by, agouti, with, as,
+Nearest to an: the, syllable, classrooms, dasyprocta, persia, witt, fears, willem,
+Nearest to his: the, its, agouti, dasyprocta, archie, s, and, acacia,
+Nearest to system: dasyprocta, agouti, doctor, dione, vanity, shenouda, additional, bb,
+Nearest to than: boasted, au, centuries, agouti, and, locate, ice, dasyprocta,
+Nearest to their: the, dreamed, her, beekeeping, s, patents, a, agouti,
+Nearest to american: explained, and, dasyprocta, background, nicene, earl, grove, one,
+Nearest to at: reginae, and, in, of, from, agouti, first, by,
+Nearest to first: immense, and, at, worship, abu, retrieved, degree, meteor,
+Nearest to world: pearl, hello, victoriae, austin, bangladesh, during, spalding, albania,
+Nearest to with: in, and, to, of, from, for, archaeological, boroughs,
+Average loss at step  16000 :  9.12500421858
+Average loss at step  17000 :  8.61617070127
+Average loss at step  18000 :  8.57616510606
+Average loss at step  19000 :  8.33486505961
+Average loss at step  20000 :  7.50941251349
+Nearest to were: was, are, is, observer, be, have, had, propensity,
+Nearest to as: in, for, and, initiation, theta, by, is, into,
+Nearest to to: with, for, nine, and, in, dasyprocta, seven, aglaulus,
+Nearest to used: agouti, dasyprocta, disabilities, cl, kaplan, banking, anastasius, burnside,
+Nearest to however: hammer, and, eustace, pine, pv, bosniaks, volunteers, reign,
+Nearest to in: and, for, of, on, by, with, from, agouti,
+Nearest to an: the, syllable, classrooms, willem, dasyprocta, persia, fears, byng,
+Nearest to his: the, its, their, dasyprocta, agouti, s, mink, archie,
+Nearest to system: dasyprocta, agouti, doctor, shenouda, bonaparte, dione, bb, vanity,
+Nearest to than: boasted, au, centuries, agouti, locate, seven, axis, block,
+Nearest to their: the, his, her, s, up, beekeeping, agouti, dreamed,
+Nearest to american: and, dasyprocta, explained, grove, earl, background, cutting, nicene,
+Nearest to at: in, reginae, of, and, from, by, agouti, eight,
+Nearest to first: immense, worship, abu, argo, and, meteor, retrieved, at,
+Nearest to world: pearl, hello, pyruvate, during, spalding, bangladesh, ingress, victoriae,
+Nearest to with: in, and, for, to, from, of, or, by,
+Average loss at step  21000 :  7.27521017241
+Average loss at step  22000 :  7.22695375538
+Average loss at step  23000 :  6.83723792338
+Average loss at step  24000 :  6.99629935837
+Average loss at step  25000 :  6.78291691518
+Nearest to were: are, was, is, had, have, be, depressive, observer,
+Nearest to as: in, for, ramps, and, by, initiation, is, abet,
+Nearest to to: nine, for, abet, with, would, could, dasyprocta, angered,
+Nearest to used: agouti, dasyprocta, disabilities, cl, kaplan, banking, anastasius, park,
+Nearest to however: and, hammer, pine, abet, eustace, volunteers, pv, reign,
+Nearest to in: and, for, on, with, at, by, of, nine,
+Nearest to an: the, classrooms, syllable, willem, byng, fears, dasyprocta, seemed,
+Nearest to his: the, its, their, abet, s, dasyprocta, her, agouti,
+Nearest to system: bb, dasyprocta, doctor, shenouda, agouti, bonaparte, dione, abet,
+Nearest to than: boasted, bianchi, au, centuries, agouti, or, seven, locate,
+Nearest to their: his, the, her, its, dreamed, up, abet, agouti,
+Nearest to american: and, dasyprocta, explained, background, abet, grove, diacritic, earl,
+Nearest to at: in, reginae, from, for, by, and, of, agouti,
+Nearest to first: immense, worship, argo, abu, retrieved, degree, rarer, dasyprocta,
+Nearest to world: pearl, pyruvate, hello, UNK, during, spalding, ingress, bangladesh,
+Nearest to with: in, and, from, for, by, to, or, as,
+Average loss at step  26000 :  6.53725396252
+Average loss at step  27000 :  6.47814872289
+Average loss at step  28000 :  5.87142244577
+Average loss at step  29000 :  6.27905534649
